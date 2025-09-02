@@ -95,10 +95,5 @@ Located in `/dashboard/`:
 * **Jupyter Notebook:** EDA, dashboard, and reporting.
 * **GitHub + Notion:** Documentation & submission.
 
-```
-
----
 
 
-Do you want me to also generate a **`.gitignore`** (to avoid pushing JSONL/data files accidentally)?
-```
