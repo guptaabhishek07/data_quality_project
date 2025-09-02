@@ -1,0 +1,1 @@
+INSERT INTO data_quality_metrics (file_name, metric_date, total_rows, missing_rows, duplicate_rows, invalid_headlines, future_dates) VALUES (?, ?, ?, ?, ?, ?, ?);

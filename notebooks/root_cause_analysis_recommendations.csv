@@ -1,0 +1,6 @@
+file_name,total_rows,missing_data_count,missing_included_count,duplicate_rows,invalid_headlines,recommendation
+news_events_2025_07_07.00078_cleaned.jsonl,25857,0,0,0,0,No major issues.
+news_events_2025_07_07.00053_cleaned.jsonl,25534,0,0,0,0,No major issues.
+news_events_2025_07_07.00104_cleaned.jsonl,26301,0,0,0,0,No major issues.
+news_events_2025_07_07.00050_cleaned.jsonl,25538,0,0,0,0,No major issues.
+news_events_2025_07_07.00004_cleaned.jsonl,25969,0,0,0,0,No major issues.

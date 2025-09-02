@@ -1,0 +1,1 @@
+INSERT INTO news_events (data, included) VALUES (?, ?);

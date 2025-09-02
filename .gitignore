@@ -1,0 +1,3 @@
+data_quality.db
+data1/*.jsonl
+cleaned_data/*.jsonl
